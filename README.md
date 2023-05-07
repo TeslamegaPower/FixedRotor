@@ -1,4 +1,4 @@
-# FixedRotorCuda for linux ( big thanks to phriuts / keyhunt cuda dev and all
+# FixedRotorCuda for linux ( big thanks to phritus / keyhunt cuda dev and all
 
 sudo apt-get install libgmp3-dev libmpfr-dev
 sudo apt-get install build-essential
